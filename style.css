@@ -1,0 +1,40 @@
+.container {
+    background-color: blueviolet;
+    margin: 5px ;
+    height: 100px;
+    text-align: center;
+    border: 3px solid red;
+   
+    position: sticky;
+    top: 5px;
+   
+    
+}
+.just {
+    width: 900px;
+    height: 500px;
+    border: 3px solid blue;
+    background-color: brown;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.abs {
+    border: 3px solid aqua;
+    width: 600px;
+    height: 500px;
+    background-color: chartreuse;
+    position: fixed;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 10px;
+}
+.footer{
+    border: 3px solid black;
+    width: 1350px;
+    height: 100px;
+    position: sticky;
+    top: 600px;
+    background-color: red;
+    margin-left: 10px;
+}
